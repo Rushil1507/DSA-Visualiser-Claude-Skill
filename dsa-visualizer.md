@@ -1,13 +1,13 @@
----
-name: dsa-visualizer
-description: >
-    Generates step-by-step SVG diagrams to visually explain DSA concepts — sorting, searching, trees, graphs, DP, backtracking, and more. Use when asked to visualize, trace, draw, or explain any algorithm.
----
+
 
 # DSA Visualizer Skill
 
 Produce **static SVG diagrams** that teach DSA through step-by-step line-wise progression and state snapshots. No animation, no interactivity. Pure visual pedagogy.
 
+---
+
+description: >
+    Generates step-by-step SVG diagrams to visually explain DSA concepts — sorting, searching, trees, graphs, DP, backtracking, and more. Use when asked to visualize, trace, draw, or explain any algorithm.
 ---
 
 ## ⚡ Token Efficiency (highest priority)
